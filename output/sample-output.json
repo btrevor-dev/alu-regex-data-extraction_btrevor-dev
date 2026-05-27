@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "extracted_at": "2026-05-27T21:34:55.847066Z",
+    "total_lines": 129,
+    "safe_lines": 125,
+    "hostile_lines_rejected": 4
+  },
+  "emails": {
+    "all": [
+      "admissions@alueducation.com",
+      "info@alueducation.com",
+      "support@alueducation.com",
+      "alumni.office@alumni.alueducation.com",
+      "coordinator@si.alueducation.com",
+      "assistant.coordinator@si.alueducation.com",
+      "jp.hakizimana94@gmail.com",
+      "j.hakizimana@alueducation.com",
+      "amara.okonkwo@yahoo.com",
+      "a.okonkwo@alueducation.com",
+      "f.wanjiru@alumni.alueducation.com",
+      "f.wanjiru@si.alueducation.com",
+      "hello@techbridgeafrica.org",
+      "grants@mastercardfdn.org",
+      "rep@giz.de",
+      "giz.rwanda.backup@giz.de",
+      "definitely_real@alueducation.com",
+      "n.mutesi@alumni.alueducation.com",
+      "student123@outlook.com",
+      "advisor@alueducation.com",
+      "prospective.student+alu@protonmail.com"
+    ],
+    "alu": {
+      "alueducation.com": [
+        "admissions@alueducation.com",
+        "info@alueducation.com",
+        "support@alueducation.com",
+        "j.hakizimana@alueducation.com",
+        "a.okonkwo@alueducation.com",
+        "definitely_real@alueducation.com",
+        "advisor@alueducation.com"
+      ],
+      "alumni.alueducation.com": [
+        "alumni.office@alumni.alueducation.com",
+        "f.wanjiru@alumni.alueducation.com",
+        "n.mutesi@alumni.alueducation.com"
+      ],
+      "si.alueducation.com": [
+        "coordinator@si.alueducation.com",
+        "assistant.coordinator@si.alueducation.com",
+        "f.wanjiru@si.alueducation.com"
+      ]
+    },
+    "external": [
+      "jp.hakizimana94@gmail.com",
+      "amara.okonkwo@yahoo.com",
+      "hello@techbridgeafrica.org",
+      "grants@mastercardfdn.org",
+      "rep@giz.de",
+      "giz.rwanda.backup@giz.de",
+      "student123@outlook.com",
+      "prospective.student+alu@protonmail.com"
+    ]
+  },
+  "credit_cards": [
+    {
+      "masked": "**** **** **** 6467",
+      "note": "Raw number withheld for security"
+    },
+    {
+      "masked": "**** **** **** 9903",
+      "note": "Raw number withheld for security"
+    },
+    {
+      "masked": "**** **** **** 8431",
+      "note": "Raw number withheld for security"
+    },
+    {
+      "masked": "**** **** **** 5100",
+      "note": "Raw number withheld for security"
+    },
+    {
+      "masked": "**** **** **** 1111",
+      "note": "Raw number withheld for security"
+    }
+  ],
+  "urls": [
+    "https://www.linkedin.com/in/jphakizimana",
+    "https://github.com/hakizimana-jp",
+    "http://amaraokonkwo.design/portfolio",
+    "https://fatumawanjiru.medium.com/tech-in-africa-2024",
+    "https://techbridgeafrica.org/partners/alu",
+    "https://mastercardfoundation.org/programs/scholars",
+    "https://portal.mastercardfoundation.org/login?ref=alu&token=abc123",
+    "https://apply.alueducation.com/dashboard",
+    "https://linkedin.com/in/nmutesi",
+    "https://mysite.io/contact?ref=alu-apply",
+    "https://portal.alueducation.com/pay",
+    "https://evil.example.com/steal?data="
+  ],
+  "phone_numbers": [
+    "250 788 123 456",
+    "250-788-456-789",
+    "250 722 000 111",
+    "800-2020",
+    "250-252-580-100",
+    "254 712 345 678",
+    "3714 496353 98431",
+    "11 234 5678",
+    "2024-10-01",
+    "250 252 580 200",
+    "2024-11-20",
+    "99999999.99",
+    "1-800-555-0199"
+  ],
+  "times": [
+    "8:00",
+    "5:00",
+    "9:00",
+    "12:00",
+    "14:30",
+    "11:05",
+    "09:15",
+    "16:45",
+    "10:00",
+    "3:47",
+    "8:22",
+    "2:15",
+    "4:50",
+    "11:59"
+  ],
+  "currency_amounts": [
+    "$1,250.00",
+    "$750.00",
+    "$500.00",
+    "£2,400.00",
+    "$320.00",
+    "$99999999.99",
+    "€450.00",
+    "¥50,000",
+    "$250.00"
+  ],
+  "hashtags": [
+    "#ALULife",
+    "#TechForAfrica",
+    "#AfricanLeadership",
+    "#Kigali2024",
+    "#Networking",
+    "#ALUAlumni"
+  ],
+  "html_tags": [
+    "<div class=\"student-card\">",
+    "<h2>",
+    "</h2>",
+    "<p>",
+    "<strong>",
+    "</strong>",
+    "<em>",
+    "</em>",
+    "</p>",
+    "<a href=\"https://portal.alueducation.com/pay\">",
+    "</a>",
+    "<img src=\"/assets/logo.png\" alt=\"ALU Logo\" />",
+    "<input type=\"text\" name=\"card\" placeholder=\"Card number\" />",
+    "</div>",
+    "<script>",
+    "</script>"
+  ]
+}
